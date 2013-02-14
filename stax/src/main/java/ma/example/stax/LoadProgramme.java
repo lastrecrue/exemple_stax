@@ -48,7 +48,7 @@ public class LoadProgramme extends Load {
 					Channel channel = new Channel();
 					channel.setIdEpg(Integer.valueOf(atrributeList.get("channel")));
 					programme.setChannel(channel);
-					programme.setIdEpg(Integer.valueOf(atrributeList.get("id")));
+					programme.setIdEpg(Long.valueOf(atrributeList.get("id")));
 					programme.setRegularId(Integer.valueOf(atrributeList.get("regular_id")));
 					programme.addSchedule(atrributeList.get("start"),atrributeList.get("stop"));
 				}
@@ -85,7 +85,7 @@ public class LoadProgramme extends Load {
 						Desc last = descList.get(descList.size()-1);
 						last.setDesc(xmlStreamReader.getText());
 					}
-					else if (flagList.lastElement().equals("category") ){
+					else if (flagList.lastElement().equals("category") && flagList.contains("programme")){
 						ArrayList<Category> categoryList = programme.getCategoryList();
 						Category last = categoryList.get(categoryList.size()-1);
 						last.setCategory(xmlStreamReader.getText());

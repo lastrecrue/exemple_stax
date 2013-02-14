@@ -2,7 +2,7 @@ package ma.example.stax;
 
 import java.util.Iterator;
 
-import ma.exemple.stax.entity.programme.Category;
+import ma.exemple.stax.entity.programme.Title;
 import ma.exemple.stax.entity.programme.Programme;
 
 public class LoadProgrammeTest {
@@ -16,11 +16,11 @@ public class LoadProgrammeTest {
 		while(it.hasNext()){
 			Programme programme = it.next();
 			System.out.println(programme.getIdEpg());
-			/*Iterator<Category> it2 = programme.getCategoryList().iterator();
+			Iterator<Title> it2 = programme.getTitleList().iterator();
 			while(it2.hasNext()){
-				Category category = it2.next();
-				System.out.println("*"+category.getCategory());
-			}*/
+				Title title = it2.next();
+				System.out.println("*"+title.getTitle());
+			}
 			//System.out.println(programme.getXmlFeed().getSrc());
 		}
 	}

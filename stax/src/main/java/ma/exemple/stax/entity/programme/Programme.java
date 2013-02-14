@@ -8,7 +8,7 @@ import ma.example.stax.entity.channel.Channel;
 
 public class Programme {
 	private int id;
-	private Integer idEpg;
+	private Long idEpg;
 	private Integer regularId;
 	private Channel channel;
 	private ArrayList<Schedule> scheduleList = new ArrayList<Schedule>();
@@ -23,10 +23,10 @@ public class Programme {
 	public void setId(int id) {
 		this.id = id;
 	}
-	public Integer getIdEpg() {
+	public Long getIdEpg() {
 		return idEpg;
 	}
-	public void setIdEpg(Integer idEpg) {
+	public void setIdEpg(Long idEpg) {
 		this.idEpg = idEpg;
 	}
 	public Integer getRegularId() {
