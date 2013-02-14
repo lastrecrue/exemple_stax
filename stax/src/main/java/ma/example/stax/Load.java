@@ -41,7 +41,7 @@ public abstract class Load {
         }
 	}
 	public Map<String,String> getAttributes(XMLStreamReader xmlStreamReader){
-		Map<String,String> attributeList = new HashMap<String,String>();
+		Map<String,String> attributeList = new HashMap<String,String>();		
 		for(int i=0; i<xmlStreamReader.getAttributeCount(); i++){
 			attributeList.put(xmlStreamReader.getAttributeLocalName(i), xmlStreamReader.getAttributeValue(i));
 		}

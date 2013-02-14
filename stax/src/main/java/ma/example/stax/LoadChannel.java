@@ -42,10 +42,10 @@ public class LoadChannel extends Load {
 			switch (eventCode) {
 			case XMLStreamReader.START_ELEMENT:
 				String elementName = xmlStreamReader.getLocalName();
-				if(flagList==null)
+				if (flagList == null)
 					flagList = new Stack<String>();
 				flagList.push(elementName);
-				Map<String,String> atrributeList = getAttributes(xmlStreamReader);
+				Map<String, String> atrributeList = getAttributes(xmlStreamReader);
 				if (elementName.equals("channel")) {
 					channel = new Channel();
 					channel.setIdEpg(Integer.valueOf(atrributeList.get("id")));
@@ -55,47 +55,44 @@ public class LoadChannel extends Load {
 				} else if (elementName.equals("region")) {
 					channel.setRegion(new Region());
 					channel.getRegion().setLang(atrributeList.get("lang"));
-				}
-				else if (elementName.equals("country")) {
+				} else if (elementName.equals("country")) {
 					channel.setCountry(new Country());
 					channel.getCountry().setLang(atrributeList.get("lang"));
-				}
-				else if (elementName.equals("category")) {
+				} else if (elementName.equals("category")) {
 					channel.setCategory(new Category());
 					channel.getCategory().setLang(atrributeList.get("lang"));
-				}
-				else if (elementName.equals("display-name")) {
+				} else if (elementName.equals("display-name")) {
 					DisplayName displayName = new DisplayName();
 					displayName.setLang(atrributeList.get("lang"));
 					channel.getDisplayNameList().add(displayName);
-				}
-				else if (elementName.equals("logo")) {
+				} else if (elementName.equals("logo")) {
 					channel.setLogo(new Logo());
 					channel.getLogo().setSrc(atrributeList.get("src"));
-				}
-				else if (elementName.equals("icon")) {
+				} else if (elementName.equals("icon")) {
 					channel.setIcon(new Icon());
 					channel.getIcon().setSrc(atrributeList.get("src"));
-				}
-				else if (elementName.equals("xml-feed")) {
+				} else if (elementName.equals("xml-feed")) {
 					channel.setXmlFeed(new XmlFeed());
 					channel.getXmlFeed().setSrc(atrributeList.get("src"));
 				}
 				break;
-				
+
 			case XMLStreamReader.CHARACTERS:
-				if (!(xmlStreamReader.isWhiteSpace()) && flagList != null && !flagList.isEmpty()) {
-					if (flagList.lastElement().equals("display-name")){
-						ArrayList<DisplayName> displayNameList = channel.getDisplayNameList();
-						DisplayName last = displayNameList.get(displayNameList.size()-1);
+				if (!(xmlStreamReader.isWhiteSpace()) && flagList != null
+						&& !flagList.isEmpty()) {
+					if (flagList.lastElement().equals("display-name")) {
+						ArrayList<DisplayName> displayNameList = channel
+								.getDisplayNameList();
+						DisplayName last = displayNameList.get(displayNameList
+								.size() - 1);
 						last.setName(xmlStreamReader.getText());
-					}
-					else if (flagList.lastElement().equals("region"))
+					} else if (flagList.lastElement().equals("region"))
 						channel.getRegion().setLang(xmlStreamReader.getText());
 					else if (flagList.lastElement().equals("country"))
 						channel.getCountry().setLang(xmlStreamReader.getText());
 					else if (flagList.lastElement().equals("category"))
-						channel.getCategory().setLang(xmlStreamReader.getText());
+						channel.getCategory()
+								.setLang(xmlStreamReader.getText());
 					else if (flagList.lastElement().equals("logo"))
 						channel.getLogo().setSrc(xmlStreamReader.getText());
 					else if (flagList.lastElement().equals("icon"))
@@ -103,8 +100,9 @@ public class LoadChannel extends Load {
 					else if (flagList.lastElement().equals("xml-feed"))
 						channel.getXmlFeed().setSrc(xmlStreamReader.getText());
 				}
+
 				break;
-				
+
 			case XMLStreamReader.END_ELEMENT:
 				if (xmlStreamReader.getLocalName().equals("channel")) {
 					if (channelList == null)
@@ -115,18 +113,18 @@ public class LoadChannel extends Load {
 					flagList.pop();
 				break;
 
-			
 			}
 		} catch (XMLStreamException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
-	public Channel getChannelByIdEpg(Integer idEpg){
+
+	public Channel getChannelByIdEpg(Integer idEpg) {
 		Iterator<Channel> it = channelList.iterator();
-		while(it.hasNext()){
+		while (it.hasNext()) {
 			Channel channel = it.next();
-			if(channel.getIdEpg().equals(idEpg))
+			if (channel.getIdEpg().equals(idEpg))
 				return channel;
 		}
 		return null;
