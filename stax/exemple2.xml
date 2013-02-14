@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="epgs.com">
+	<channel id="10008" order="10" lang="en" region="uk" slug="eurosport-hd-england" license="0">
+		<name lang="en">Eurosport HD EN</name>
+		<category lang="en">SPORT</category>
+		<logo>http://epgs.com/imgs/logo/eurosport_hd_big.png</logo>
+		<icon>http://epgs.com/imgs/logo/eurosport_hd.png</icon>
+		<programmes>
+			<programme id="100081360567800" regular_id="0" channel="10008" start="20130211073000 +0000" stop="20130211081500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360570500" regular_id="0" channel="10008" start="20130211081500 +0000" stop="20130211090000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360573200" regular_id="0" channel="10008" start="20130211090000 +0000" stop="20130211094500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Willingen - HS145</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360575900" regular_id="0" channel="10008" start="20130211094500 +0000" stop="20130211103000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming - Women&#039;s Downhill</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360578600" regular_id="0" channel="10008" start="20130211103000 +0000" stop="20130211104500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360579500" regular_id="0" channel="10008" start="20130211104500 +0000" stop="20130211120000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360584000" regular_id="0" channel="10008" start="20130211120000 +0000" stop="20130211133000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360589400" regular_id="0" channel="10008" start="20130211133000 +0000" stop="20130211163000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360600200" regular_id="0" channel="10008" start="20130211163000 +0000" stop="20130211171500 +0000">
+				<title lang="en">Eurogoals</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360602900" regular_id="0" channel="10008" start="20130211171500 +0000" stop="20130211181500 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360606500" regular_id="0" channel="10008" start="20130211181500 +0000" stop="20130211183000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360607400" regular_id="0" channel="10008" start="20130211183000 +0000" stop="20130211190000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360609200" regular_id="0" channel="10008" start="20130211190000 +0000" stop="20130211220000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360620000" regular_id="0" channel="10008" start="20130211220000 +0000" stop="20130211230000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360623600" regular_id="0" channel="10008" start="20130211230000 +0000" stop="20130211233000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360625400" regular_id="0" channel="10008" start="20130211233000 +0000" stop="20130212000000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360627200" regular_id="0" channel="10008" start="20130212000000 +0000" stop="20130212004500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360629900" regular_id="0" channel="10008" start="20130212004500 +0000" stop="20130212020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360634400" regular_id="0" channel="10008" start="20130212020000 +0000" stop="20130212073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130211</date>
+			</programme>
+			<programme id="100081360654200" regular_id="0" channel="10008" start="20130212073000 +0000" stop="20130212074500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360655100" regular_id="0" channel="10008" start="20130212074500 +0000" stop="20130212084500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Willingen - Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360658700" regular_id="0" channel="10008" start="20130212084500 +0000" stop="20130212093000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360661400" regular_id="0" channel="10008" start="20130212093000 +0000" stop="20130212100000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360663200" regular_id="0" channel="10008" start="20130212100000 +0000" stop="20130212110000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming - Men&#039;s Downhill</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360666800" regular_id="0" channel="10008" start="20130212110000 +0000" stop="20130212113000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360668600" regular_id="0" channel="10008" start="20130212113000 +0000" stop="20130212120000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360670400" regular_id="0" channel="10008" start="20130212120000 +0000" stop="20130212121500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360671300" regular_id="0" channel="10008" start="20130212121500 +0000" stop="20130212123000 +0000">
+				<title lang="en">Horse Racing Time</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360672200" regular_id="0" channel="10008" start="20130212123000 +0000" stop="20130212133000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360675800" regular_id="0" channel="10008" start="20130212133000 +0000" stop="20130212163000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360686600" regular_id="0" channel="10008" start="20130212163000 +0000" stop="20130212170000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360688400" regular_id="0" channel="10008" start="20130212170000 +0000" stop="20130212171500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360689300" regular_id="0" channel="10008" start="20130212171500 +0000" stop="20130212180000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140 qualifying</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360692000" regular_id="0" channel="10008" start="20130212180000 +0000" stop="20130212190000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Nations Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360695600" regular_id="0" channel="10008" start="20130212190000 +0000" stop="20130212220000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360706400" regular_id="0" channel="10008" start="20130212220000 +0000" stop="20130212233000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360711800" regular_id="0" channel="10008" start="20130212233000 +0000" stop="20130212234500 +0000">
+				<title lang="en">GT Academy: Race to Dubai</title>
+				<desc lang="en">GT Academy: Race to Dubai</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360712700" regular_id="0" channel="10008" start="20130212234500 +0000" stop="20130213001500 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360714500" regular_id="0" channel="10008" start="20130213001500 +0000" stop="20130213020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360720800" regular_id="0" channel="10008" start="20130213020000 +0000" stop="20130213073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130212</date>
+			</programme>
+			<programme id="100081360740600" regular_id="0" channel="10008" start="20130213073000 +0000" stop="20130213074000 +0000">
+				<title lang="en">GTA Race to Dubai</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360741200" regular_id="0" channel="10008" start="20130213074000 +0000" stop="20130213080000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360742400" regular_id="0" channel="10008" start="20130213080000 +0000" stop="20130213090000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Nations Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360746000" regular_id="0" channel="10008" start="20130213090000 +0000" stop="20130213094500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140 qualifying</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360748700" regular_id="0" channel="10008" start="20130213094500 +0000" stop="20130213103000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Pursuit</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360751400" regular_id="0" channel="10008" start="20130213103000 +0000" stop="20130213110000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Super-Combined</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360753200" regular_id="0" channel="10008" start="20130213110000 +0000" stop="20130213120000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Nations Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360756800" regular_id="0" channel="10008" start="20130213120000 +0000" stop="20130213133000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360762200" regular_id="0" channel="10008" start="20130213133000 +0000" stop="20130213160000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 3</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360771200" regular_id="0" channel="10008" start="20130213160000 +0000" stop="20130213174500 +0000">
+				<title lang="en">Live Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Individual</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360777500" regular_id="0" channel="10008" start="20130213174500 +0000" stop="20130213180000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360778400" regular_id="0" channel="10008" start="20130213180000 +0000" stop="20130213190000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360782000" regular_id="0" channel="10008" start="20130213190000 +0000" stop="20130213220000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 3</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360792800" regular_id="0" channel="10008" start="20130213220000 +0000" stop="20130213233000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Welsh Open 3rd Day</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360798200" regular_id="0" channel="10008" start="20130213233000 +0000" stop="20130214000000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360800000" regular_id="0" channel="10008" start="20130214000000 +0000" stop="20130214003000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Individual</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360801800" regular_id="0" channel="10008" start="20130214003000 +0000" stop="20130214020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360807200" regular_id="0" channel="10008" start="20130214020000 +0000" stop="20130214073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130213</date>
+			</programme>
+			<programme id="100081360827000" regular_id="0" channel="10008" start="20130214073000 +0000" stop="20130214083000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360830600" regular_id="0" channel="10008" start="20130214083000 +0000" stop="20130214084500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360831500" regular_id="0" channel="10008" start="20130214084500 +0000" stop="20130214100000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s Giant Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360836000" regular_id="0" channel="10008" start="20130214100000 +0000" stop="20130214110000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Individual</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360839600" regular_id="0" channel="10008" start="20130214110000 +0000" stop="20130214120000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360843200" regular_id="0" channel="10008" start="20130214120000 +0000" stop="20130214121500 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s Giant Slalom (1st Run)</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360844100" regular_id="0" channel="10008" start="20130214121500 +0000" stop="20130214133000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s Giant Slalom (2nd Run)</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360848600" regular_id="0" channel="10008" start="20130214133000 +0000" stop="20130214161500 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 4</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360858500" regular_id="0" channel="10008" start="20130214161500 +0000" stop="20130214174500 +0000">
+				<title lang="en">Live Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Individual</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360863900" regular_id="0" channel="10008" start="20130214174500 +0000" stop="20130214180000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360864800" regular_id="0" channel="10008" start="20130214180000 +0000" stop="20130214190000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 4</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360868400" regular_id="0" channel="10008" start="20130214190000 +0000" stop="20130214220000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Day 4</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360879200" regular_id="0" channel="10008" start="20130214220000 +0000" stop="20130214230000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Day 4</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360882800" regular_id="0" channel="10008" start="20130214230000 +0000" stop="20130215000000 +0000">
+				<title lang="en">European Poker Tour</title>
+				<desc lang="en">Poker</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360886400" regular_id="0" channel="10008" start="20130215000000 +0000" stop="20130215003000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 3</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360888200" regular_id="0" channel="10008" start="20130215003000 +0000" stop="20130215004500 +0000">
+				<title lang="en">GTA Race to Dubai</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360889100" regular_id="0" channel="10008" start="20130215004500 +0000" stop="20130215020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360893600" regular_id="0" channel="10008" start="20130215020000 +0000" stop="20130215073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130214</date>
+			</programme>
+			<programme id="100081360913400" regular_id="0" channel="10008" start="20130215073000 +0000" stop="20130215080000 +0000">
+				<title lang="en">Luge World Cup</title>
+				<desc lang="en">Lake Placid - Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360915200" regular_id="0" channel="10008" start="20130215080000 +0000" stop="20130215083000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s Giant Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360917000" regular_id="0" channel="10008" start="20130215083000 +0000" stop="20130215084500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360917900" regular_id="0" channel="10008" start="20130215084500 +0000" stop="20130215100000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Giant Slalom 1st Run</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360922400" regular_id="0" channel="10008" start="20130215100000 +0000" stop="20130215110000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Klingenthal - HS140</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360926000" regular_id="0" channel="10008" start="20130215110000 +0000" stop="20130215120000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Individual</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360929600" regular_id="0" channel="10008" start="20130215120000 +0000" stop="20130215121500 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Giant Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360930500" regular_id="0" channel="10008" start="20130215121500 +0000" stop="20130215133000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Giant Slalom (2nd Run)</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360935000" regular_id="0" channel="10008" start="20130215133000 +0000" stop="20130215161500 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Quarter-finals</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360944900" regular_id="0" channel="10008" start="20130215161500 +0000" stop="20130215174500 +0000">
+				<title lang="en">Live Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Relay</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360950300" regular_id="0" channel="10008" start="20130215174500 +0000" stop="20130215180000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360951200" regular_id="0" channel="10008" start="20130215180000 +0000" stop="20130215190000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Giant Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360954800" regular_id="0" channel="10008" start="20130215190000 +0000" stop="20130215220000 +0000">
+				<title lang="en">Live Snooker: Welsh Open</title>
+				<desc lang="en">Quarter-finals</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360965600" regular_id="0" channel="10008" start="20130215220000 +0000" stop="20130215230000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Quarter-finals</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360969200" regular_id="0" channel="10008" start="20130215230000 +0000" stop="20130215233000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 4</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360971000" regular_id="0" channel="10008" start="20130215233000 +0000" stop="20130216000000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213 Qualifying</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360972800" regular_id="0" channel="10008" start="20130216000000 +0000" stop="20130216003000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Relay</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360974600" regular_id="0" channel="10008" start="20130216003000 +0000" stop="20130216020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360980000" regular_id="0" channel="10008" start="20130216020000 +0000" stop="20130216073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130215</date>
+			</programme>
+			<programme id="100081360999800" regular_id="0" channel="10008" start="20130216073000 +0000" stop="20130216083000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS213 Qualifying</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361003400" regular_id="0" channel="10008" start="20130216083000 +0000" stop="20130216084500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361004300" regular_id="0" channel="10008" start="20130216084500 +0000" stop="20130216100000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s Slalom (1st Run)</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361008800" regular_id="0" channel="10008" start="20130216100000 +0000" stop="20130216103000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213 Qualifying</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361010600" regular_id="0" channel="10008" start="20130216103000 +0000" stop="20130216121500 +0000">
+				<title lang="en">Live Cross-Country Skiing</title>
+				<desc lang="en">Davos - Men&#039;s and Women&#039;s Sprint</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361016900" regular_id="0" channel="10008" start="20130216121500 +0000" stop="20130216131500 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming - Women&#039;s Slalom 2nd Run</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361020500" regular_id="0" channel="10008" start="20130216131500 +0000" stop="20130216140000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Relay</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361023200" regular_id="0" channel="10008" start="20130216140000 +0000" stop="20130216150000 +0000">
+				<title lang="en">WTA Tennis: Doha</title>
+				<desc lang="en">Quarter-Finals - Doha</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361026800" regular_id="0" channel="10008" start="20130216150000 +0000" stop="20130216190000 +0000">
+				<title lang="en">Live WTA Tennis: Doha</title>
+				<desc lang="en">Semi Finals - Doha</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361041200" regular_id="0" channel="10008" start="20130216190000 +0000" stop="20130216203000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Relay</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361046600" regular_id="0" channel="10008" start="20130216203000 +0000" stop="20130216214500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361051100" regular_id="0" channel="10008" start="20130216214500 +0000" stop="20130216220000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361052000" regular_id="0" channel="10008" start="20130216220000 +0000" stop="20130216230000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Women&#039;s slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361055600" regular_id="0" channel="10008" start="20130216230000 +0000" stop="20130216233000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Relay</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361057400" regular_id="0" channel="10008" start="20130216233000 +0000" stop="20130217000000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 5</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361059200" regular_id="0" channel="10008" start="20130217000000 +0000" stop="20130217010000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Welsh Open - Semi-Finals</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361062800" regular_id="0" channel="10008" start="20130217010000 +0000" stop="20130217020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361066400" regular_id="0" channel="10008" start="20130217020000 +0000" stop="20130217073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130216</date>
+			</programme>
+			<programme id="100081361086200" regular_id="0" channel="10008" start="20130217073000 +0000" stop="20130217083000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361089800" regular_id="0" channel="10008" start="20130217083000 +0000" stop="20130217084500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361090700" regular_id="0" channel="10008" start="20130217084500 +0000" stop="20130217094500 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361094300" regular_id="0" channel="10008" start="20130217094500 +0000" stop="20130217104500 +0000">
+				<title lang="en">Live Cross-Country Skiing</title>
+				<desc lang="en">Davos - 10km Free Technique Women</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361097900" regular_id="0" channel="10008" start="20130217104500 +0000" stop="20130217120000 +0000">
+				<title lang="en">Live Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361102400" regular_id="0" channel="10008" start="20130217120000 +0000" stop="20130217121500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361103300" regular_id="0" channel="10008" start="20130217121500 +0000" stop="20130217133000 +0000">
+				<title lang="en">Live Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom 2nd Run</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361107800" regular_id="0" channel="10008" start="20130217133000 +0000" stop="20130217134500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361108700" regular_id="0" channel="10008" start="20130217134500 +0000" stop="20130217144500 +0000">
+				<title lang="en">Live Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361112300" regular_id="0" channel="10008" start="20130217144500 +0000" stop="20130217150000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361113200" regular_id="0" channel="10008" start="20130217150000 +0000" stop="20130217170000 +0000">
+				<title lang="en">Live WTA Tennis: Doha</title>
+				<desc lang="en">Doha - Final</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361120400" regular_id="0" channel="10008" start="20130217170000 +0000" stop="20130217174500 +0000">
+				<title lang="en">Live Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213 Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361123100" regular_id="0" channel="10008" start="20130217174500 +0000" stop="20130217180000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361124000" regular_id="0" channel="10008" start="20130217180000 +0000" stop="20130217190000 +0000">
+				<title lang="en">Cross-Country Skiing</title>
+				<desc lang="en">Davos - Men&#039;s 15km</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361127600" regular_id="0" channel="10008" start="20130217190000 +0000" stop="20130217200000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361131200" regular_id="0" channel="10008" start="20130217200000 +0000" stop="20130217210000 +0000">
+				<title lang="en">Bobsleigh World Cup</title>
+				<desc lang="en">Sochi - 4-Man</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361134800" regular_id="0" channel="10008" start="20130217210000 +0000" stop="20130217213000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361136600" regular_id="0" channel="10008" start="20130217213000 +0000" stop="20130217220000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361138400" regular_id="0" channel="10008" start="20130217220000 +0000" stop="20130217230000 +0000">
+				<title lang="en">WTA Tennis: Doha</title>
+				<desc lang="en">Doha - Final</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361142000" regular_id="0" channel="10008" start="20130217230000 +0000" stop="20130217233000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 6</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361143800" regular_id="0" channel="10008" start="20130217233000 +0000" stop="20130218003000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361147400" regular_id="0" channel="10008" start="20130218003000 +0000" stop="20130218004500 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361148300" regular_id="0" channel="10008" start="20130218004500 +0000" stop="20130218020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361152800" regular_id="0" channel="10008" start="20130218020000 +0000" stop="20130218073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130217</date>
+			</programme>
+			<programme id="100081361172600" regular_id="0" channel="10008" start="20130218073000 +0000" stop="20130218083000 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213 Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361176200" regular_id="0" channel="10008" start="20130218083000 +0000" stop="20130218091500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361178900" regular_id="0" channel="10008" start="20130218091500 +0000" stop="20130218100000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361181600" regular_id="0" channel="10008" start="20130218100000 +0000" stop="20130218140000 +0000">
+				<title lang="en">Live WTA Tennis: Dubai</title>
+				<desc lang="en">Dubai - Day 1</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361196000" regular_id="0" channel="10008" start="20130218140000 +0000" stop="20130218143000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361197800" regular_id="0" channel="10008" start="20130218143000 +0000" stop="20130218150000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361199600" regular_id="0" channel="10008" start="20130218150000 +0000" stop="20130218160000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361203200" regular_id="0" channel="10008" start="20130218160000 +0000" stop="20130218163000 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 6</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361205000" regular_id="0" channel="10008" start="20130218163000 +0000" stop="20130218171500 +0000">
+				<title lang="en">Eurogoals</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361207700" regular_id="0" channel="10008" start="20130218171500 +0000" stop="20130218174500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361209500" regular_id="0" channel="10008" start="20130218174500 +0000" stop="20130218181500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361211300" regular_id="0" channel="10008" start="20130218181500 +0000" stop="20130218191500 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Giant Slalom</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361214900" regular_id="0" channel="10008" start="20130218191500 +0000" stop="20130218201500 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361218500" regular_id="0" channel="10008" start="20130218201500 +0000" stop="20130218204500 +0000">
+				<title lang="en">Cycling: Tour of Oman</title>
+				<desc lang="en">Stage 6</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361220300" regular_id="0" channel="10008" start="20130218204500 +0000" stop="20130218234500 +0000">
+				<title lang="en">World Superbikes 2012: Top 3 Races</title>
+				<desc lang="en">Top 3 Races</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361231100" regular_id="0" channel="10008" start="20130218234500 +0000" stop="20130219003500 +0000">
+				<title lang="en">Eurogoals</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361234100" regular_id="0" channel="10008" start="20130219003500 +0000" stop="20130219020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361239200" regular_id="0" channel="10008" start="20130219020000 +0000" stop="20130219073000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130218</date>
+			</programme>
+			<programme id="100081361259000" regular_id="0" channel="10008" start="20130219073000 +0000" stop="20130219081500 +0000">
+				<title lang="en">Eurogoals</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361261700" regular_id="0" channel="10008" start="20130219081500 +0000" stop="20130219093000 +0000">
+				<title lang="en">Snooker: Welsh Open</title>
+				<desc lang="en">Welsh Open - Final</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361266200" regular_id="0" channel="10008" start="20130219093000 +0000" stop="20130219104500 +0000">
+				<title lang="en">Ski Jumping World Cup</title>
+				<desc lang="en">Oberstdorf - HS 213 Team Event</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361270700" regular_id="0" channel="10008" start="20130219104500 +0000" stop="20130219113000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361273400" regular_id="0" channel="10008" start="20130219113000 +0000" stop="20130219121500 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361276100" regular_id="0" channel="10008" start="20130219121500 +0000" stop="20130219124500 +0000">
+				<title lang="en">Cross-Country Skiing</title>
+				<desc lang="en">Davos -10km Free Technique Women</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361277900" regular_id="0" channel="10008" start="20130219124500 +0000" stop="20130219130000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361278800" regular_id="0" channel="10008" start="20130219130000 +0000" stop="20130219134500 +0000">
+				<title lang="en">Eurogoals</title>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361281500" regular_id="0" channel="10008" start="20130219134500 +0000" stop="20130219140000 +0000">
+				<title lang="en">Wintersports: Ski Pass</title>
+				<desc lang="en">Alpine Skiing Magazine</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361282400" regular_id="0" channel="10008" start="20130219140000 +0000" stop="20130219150000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361286000" regular_id="0" channel="10008" start="20130219150000 +0000" stop="20130219190000 +0000">
+				<title lang="en">Live WTA Tennis: Dubai</title>
+				<desc lang="en">Dubai - Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361300400" regular_id="0" channel="10008" start="20130219190000 +0000" stop="20130219210000 +0000">
+				<title lang="en">WTA Tennis: Dubai</title>
+				<desc lang="en">Dubai - Day 2</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361307600" regular_id="0" channel="10008" start="20130219210000 +0000" stop="20130219220000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming - Men&#039;s Downhill</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361311200" regular_id="0" channel="10008" start="20130219220000 +0000" stop="20130219230000 +0000">
+				<title lang="en">Alpine Skiing World Champs</title>
+				<desc lang="en">Schladming: Men&#039;s Slalom Highlights</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361314800" regular_id="0" channel="10008" start="20130219230000 +0000" stop="20130219233000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Women&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361316600" regular_id="0" channel="10008" start="20130219233000 +0000" stop="20130220000000 +0000">
+				<title lang="en">Biathlon World Champs</title>
+				<desc lang="en">Nove Mesto, Slovakia - Men&#039;s Mass Start</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361318400" regular_id="0" channel="10008" start="20130220000000 +0000" stop="20130220003000 +0000">
+				<title lang="en">Bobsleigh World Cup</title>
+				<desc lang="en">Sochi - 4-Man</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361320200" regular_id="0" channel="10008" start="20130220003000 +0000" stop="20130220020000 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+			<programme id="100081361325600" regular_id="0" channel="10008" start="20130220020000 +0000" stop="20130220071500 +0000">
+				<title lang="en">TV Shop</title>
+				<desc lang="en">TV Shop</desc>
+				<category lang="en">sport</category>
+				<date lang="en">20130219</date>
+			</programme>
+		</programmes>
+	</channel>
+</tv>
